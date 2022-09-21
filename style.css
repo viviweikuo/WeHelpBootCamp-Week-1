@@ -18,6 +18,7 @@ body{
 
 .menu-mobile{
     display: none;
+
 }
 
 .headbanner{
@@ -110,8 +111,9 @@ body{
 
     .headline{
         font-size: 25px;
-        color: #0D2F81;
-        font-weight: bolder;
+        color: azure;
+        -webkit-text-stroke: 1px azure;
+
     }
 
     .event{
