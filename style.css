@@ -48,8 +48,7 @@ body{
     flex: none;
     height: 50px;
     width: 580px;
-    margin: 10px;
-    margin-top: 20px;
+    margin: 20px 10px 10px 10px;
     background-color: #6E7EB2;
 
 }
