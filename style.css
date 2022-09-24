@@ -88,13 +88,13 @@ body{
     flex: none;
     height: 50px;
     width: 280px;
-    color: azure;
+    color: #0D2F81;
     background-color: rgba(245, 245, 245, 0.521);
     font-weight: bold;
     text-align: center;
     line-height: 45px;
     position: absolute;
-    top : 280; left : 0; right : 0; bottom : 0;
+    left : 0; right : 0; bottom : 0;
     z-index: 1;
 
 }
@@ -119,13 +119,13 @@ body{
 
     .pic{
         width: 45%;
-        height: 90%;
+        height: auto;
         
     }
 
     .text2{
         position: absolute;
-        top : 280; left : 0; right : 0; bottom : 0;
+        left : 0; right : 0; bottom : 0;
         z-index: 1;
 
     }
@@ -161,7 +161,7 @@ body{
 
     .text2{
         position: absolute;
-        top : 280; left : 0; right : 0; bottom : 0;
+        left : 0; right : 0; bottom : 0;
         z-index: 1;
     
     }
